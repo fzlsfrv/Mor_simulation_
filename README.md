@@ -1,1 +1,3 @@
-# 8e5f_simulation_
+# Simulation pipeline for mu-opioid receptor in the lipid bilayer consisting of POPC molecules
+# In equilibration folder, you will find the several scripts, which are different steps of the simulation. The order of the files are explained in equilibration_protocol.txt.
+# In Production folder, there are scripts for 50 ns-long simulations in NPAT ensemble, with different restraints. 
