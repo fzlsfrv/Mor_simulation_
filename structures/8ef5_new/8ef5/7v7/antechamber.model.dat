@@ -1,0 +1,1 @@
+/home/charmm-gui/local/bin/python3_conda ligand2charmm.py -Lname 7V7 -nc x -index 0 -atomtype gaff2 -charge_method bcc
